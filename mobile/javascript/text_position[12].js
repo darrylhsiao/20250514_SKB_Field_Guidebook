@@ -1,0 +1,1 @@
+﻿positionForPages[12]={page:12,positions:[{word:"6 ",left:0.495935,top:0.914282,width:0.012573,height:0.013175},{word:" ",left:0.151011,top:0.927965,width:0.004208,height:0.013175},{word:"Geological Map (Lo \& Ho, 2012) ",left:0.151011,top:0.096786,width:0.381383,height:0.021064},{word:" ",left:0.839246,top:0.898717,width:0.005039,height:0.015778}]};
